@@ -442,10 +442,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots on serial monitor   :
 
- <img width="1280" height="720" alt="WhatsApp Image 2026-05-04 at 3 29 48 PM" src="https://github.com/user-attachments/assets/e7f23c33-999b-42a7-99f3-3126213dac79" /><br>
+<img width="1018" height="860" alt="image" src="https://github.com/user-attachments/assets/7f24ae42-0cb9-40c1-8313-c118ed112d21" />
 
- 
- <img width="1018" height="860" alt="image" src="https://github.com/user-attachments/assets/7f24ae42-0cb9-40c1-8313-c118ed112d21" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-05-06 at 5 30 23 PM" src="https://github.com/user-attachments/assets/9ed737cd-f5d6-4ffc-8a88-42500049d9b3" />
+
 
 
  
